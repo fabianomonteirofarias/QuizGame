@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Quiz Game</string>
+    <string name="nova_partida">Nova Partida</string>
+    <string name="configura_es">Configurações</string>
+    <string name="sair">Sair</string>
+    <string name="quest_o">Questão</string>
+    <string name="alternativa_a">Alternativa A</string>
+    <string name="alternativa_b">Alternativa B</string>
+    <string name="alternativa_c">Alternativa C</string>
+    <string name="alternativa_d">Alternativa D</string>
+    <string name="submeter">Próximo</string>
+    <string name="parab_ns">Parabéns!</string>
+    <string name="voc_acertou_de">Você acertou ? de ?.</string>
+    <string name="voltar_ao_menu_inical">Voltar ao menu inical</string>
+</resources>
